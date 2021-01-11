@@ -1,6 +1,6 @@
 # Behavior of Components
 ***
-There is 2 cases while viewer wants to view this page. 
+There are 2 cases while viewer wants to view this page. 
 1. There is no problem on network
 2. There is a problem with network whether server problem or loss of internet connection.
 
